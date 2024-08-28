@@ -1,0 +1,7 @@
+exp 1: code analyzer (time complexity)
+exp 2: amortized analysis
+exp 3: randomized quick sort (lomuto+hoare)
+
+assign 1: lexical analyzer (data structures)
+assign 2: code to reduce overestimation in aggregate method (multipop)
+assign 3: hoare ka time complexity better kaise kar sakte?
