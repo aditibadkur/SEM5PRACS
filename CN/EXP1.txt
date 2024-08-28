@@ -1,0 +1,33 @@
+private ip
+- 10
+- 192
+
+Mac is unique (physical) address (locally)
+
+If attacked, these will be accessible to the attacker
+- default gateway
+- ip address
+- dns
+
+Address Resolution Protocol
+- to get mac of other device/user
+- helps recognising unauthorized users
+
+Ping of Death attack (DOS attack)
+- icmp 
+- send 4 lakh packets w heavy memory
+- server gets damaged
+
+.com - commercial
+icmp - Internet Control Msg Protocol
+arp - Address Resolution Protocol
+
+
+ipconfig
+getmac
+arp -a
+nslookup
+nslookup DOMAIN_NAME
+tracert DOMAIN_NAME : hops-travelling through servers/computers/routers
+netstat
+ping IPADDRESS_OTHER : sending dummy packets to check user is alive/reachable
