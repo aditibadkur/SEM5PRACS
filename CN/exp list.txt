@@ -1,4 +1,0 @@
-exp 1: overview
-exp 2: character/bit/byte stuffing
-exp 3: error correction and detection
-exp 4: ip address (classfull)
